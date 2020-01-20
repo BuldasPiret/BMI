@@ -4,6 +4,8 @@ function computeBMI() {
     var heightunits = document.getElementById("heightunits").value;
     var weight = Number(document.getElementById("weight").value);
     var weightunits = document.getElementById("weightunits").value;
+    var age = Number(document.getElementById("age").value);
+    var agetunits = document.getElementById("ageunits").value;
 
 
     //Convert all units to metric
