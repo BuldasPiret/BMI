@@ -1,0 +1,12 @@
+body{
+    font-family:  'Montserrat', sans-serif;
+    text-align: center;
+    height: 95vh;
+    background-image:
+    url('../IMG/health.jpg');
+    background-size: cover;
+    background-position: center;
+}
+.container{
+    padding-top: 110px;
+}
